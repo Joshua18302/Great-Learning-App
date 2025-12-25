@@ -7,7 +7,7 @@
 
 ## Clone the Repo
 
-git clone https://github.com/Joshua18302/Great-Learning-App
+git clone https://github.com/Joshua18302/Great-Learning-App  
 cd great-learning-app
 
 ## Install Dependencies
