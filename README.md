@@ -20,5 +20,5 @@ npm start
 
 ## Run the App
 
-w - opens app on web
+w - opens app on web  
 a - opens app on android
